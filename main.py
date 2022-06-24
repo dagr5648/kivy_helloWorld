@@ -29,7 +29,7 @@ class SayHello(App):
         self.window.add_widget(Image(source = "yikes.png"))
        #label widget
         self.greeting = Label(
-                        text = "What's name?",
+                        text = "What's name goober?",
                         font_size = 18,
                         color = "#00FFCE"
                         )
